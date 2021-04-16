@@ -1,4 +1,4 @@
-# File sorting script
+# PySort
 A small program that sort files by adding them to specific folder with the name of extension
 
 
