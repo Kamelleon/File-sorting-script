@@ -1,5 +1,5 @@
 # PySort
-A small program that sort files by adding them to specific folder with the name of extension
+A program that sort files by adding them to specified folder with the name of the extension.
 
 
 # Instructions
