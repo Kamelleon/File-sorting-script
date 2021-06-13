@@ -9,10 +9,10 @@ A small program that sort files by adding them to specific folder with the name 
 Additionally you can modify this script to sort only files with extension specified by you.
 Just add line of code:
 ```python
-sortfiles('.extension')
+if __name__ == '__main__':
+  sortfiles('.extension')
 ```
 And change 'extension' with the name of your extension for e.g.
 ```python
 sortfiles('.mp3')
 ```
-Place this line under the "if __name__ == '__main__':" statement.
