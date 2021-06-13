@@ -14,5 +14,6 @@ if __name__ == '__main__':
 ```
 And change 'extension' with the name of your extension for e.g.
 ```python
-sortfiles('.mp3')
+if __name__ == '__main__':
+  sortfiles('.mp3')
 ```
