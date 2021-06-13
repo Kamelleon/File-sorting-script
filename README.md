@@ -11,7 +11,7 @@ Just add line of code:
 ```python
 sortfiles('.extension')
 ```
-And change 'extension' with your extension for e.g.
+And change 'extension' with the name of your extension for e.g.
 ```python
 sortfiles('.mp3')
 ```
