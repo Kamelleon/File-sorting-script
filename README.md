@@ -3,6 +3,7 @@ A small program that sort files by adding them to specific folder with the name 
 
 
 # Instructions
+- Minimum Python 3.7.5 required
 - Place script in location where you want to sort files
 - Run it
 
